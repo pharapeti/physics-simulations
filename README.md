@@ -3,6 +3,6 @@ A repo containing various physics simulations using python
 
 
 ## Setup
-Pull the repo
-Navigate to the repo
-Run `pip3 install -r requirements.txt` in terminal
+1. Pull the repo
+2. Navigate to the repo
+3. Run `pip3 install -r requirements.txt` in terminal
